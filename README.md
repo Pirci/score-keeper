@@ -1,12 +1,33 @@
 # Score Keeper Web App
 
-Udemy the Web Developer Bootcamp project.
+U### Udemy the Web Developer Bootcamp project.
 
-Please click on the link below to view it.
+> Color guessing game created using javascript. There are 2 different game modes, easy and hard. When the rgb code is selected correctly from the color boxes given, it paints the whole boxes in the specified color. The wrong predicted box disappears from the screen.
 
 
-https://pirci.github.io/score-keeper/
+From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=15#overview) Udemy
 
-![main_screen](https://user-images.githubusercontent.com/43238947/115291275-d783dc80-a154-11eb-985c-49fefac9ca89.png)
+
+## Live Demo
+
+Preview:  https://pirci.github.io/score-keeper/
+
+![score-keeper](demo.gif)
+
+
+## What I Learned:
+
+- Using DOM Manipulation (document.querySelector)
+- Applied and understanding JavaScript's "Boolean" object
+- const and let variables declared used
+- If statement implemented
+
+
+
+## Possible Improvements
+
+- More code reviews can be added for teamwork
+- Could make the page layout more pleasing to the eye
+- Formatting could be improved when viewing on certain devices/browsers
 
  
