@@ -1,9 +1,8 @@
 # Score Keeper Web App
 
-U### Udemy the Web Developer Bootcamp project.
+### Udemy the Web Developer Bootcamp project.
 
-> Color guessing game created using javascript. There are 2 different game modes, easy and hard. When the rgb code is selected correctly from the color boxes given, it paints the whole boxes in the specified color. The wrong predicted box disappears from the screen.
-
+> Score keeper app created using javascript. The target score can be changed. Player who reaching the target score is marked by green, the remainder by red. New game can be started with the reset button.
 
 From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=15#overview) Udemy
 
