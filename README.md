@@ -7,6 +7,9 @@
 From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=15#overview) Udemy
 
 
+> It was one of a "code along" assignments included in the video bootcamp.
+
+
 ## Live Demo
 
 Preview:  https://pirci.github.io/score-keeper/
